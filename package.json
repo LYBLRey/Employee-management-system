@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LYBLRey/Employee-management-system#readme",
   "dependencies": {
-    "inquirer": "^8.1.2"
+    "inquirer": "^8.1.2",
+    "mysql": "^2.18.1"
   }
 }
